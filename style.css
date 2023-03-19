@@ -1,0 +1,355 @@
+body{
+    background-color: black;
+}
+nav{
+    display: flex;
+    align-items: center;
+    margin-left: 200px;
+}
+
+nav ul{
+    display: flex;
+    align-items: center;
+    gap: 46px;
+    list-style: none;
+    margin-top: -324px;
+    text-decoration: none;
+}
+.logo{
+  height: 50px;
+  margin-top: -600px;
+  display: flex;
+}
+.list-items li{
+    padding: 12px;
+    font-size: 20px;
+    font-weight: 900;
+    cursor: pointer;
+}
+.list-items a{
+    text-decoration: none;
+    color: white;
+    
+}
+.button{
+    margin-top: -600px;
+    margin-left: 30px;   
+} 
+ .btn{
+    margin-left: 100px;
+    background-color: rgba(40, 38, 38, 0.318);
+    color: white;
+    border-left: 1px solid gray;
+    border-top: 1px solid gray;
+    border-right: 1px solid rgb(47, 46, 46);
+    border-bottom: 1px solid rgb(47, 46, 46);
+    padding: 14px 36px 14px 36px;
+    border-radius: 8px;
+    font-weight: 600;
+    cursor: pointer;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.onearlogo{
+    margin-left: 800px;
+    margin-top: -500px;
+}
+.secondheader{
+    color: white;
+    margin-left: 720px;
+    font-size: 50px;
+}
+.fourthheader{
+    color: white;
+    margin-left: 720px;
+    font-size: 40px;
+}
+.paragraph{
+    color: grey;
+    margin-top:-30px;
+    font-size: 20px;
+    margin-left: 720px;
+    line-height: 45px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.container{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    width: 330px;
+    padding:6px;
+    font-weight: 400;
+    border-radius: 14px;
+    border: 2px solid rgb(30, 29, 29) ;
+    margin-top:30px;
+    gap:80px;
+    background-color: rgb(30, 29, 29);
+    margin-left: 720px;
+    /* cursor: pointer; */
+}
+.text{
+    cursor: pointer;
+    font-weight: 600;
+}
+.modelname{
+    font-weight: 500;
+}
+.logos{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 200px;
+    margin-top: 100px;
+    margin-left: 0px;
+}
+.amazon{
+    margin-top: 16px;
+    cursor: pointer;
+}
+.spotify{
+    cursor: pointer;
+}
+.apple{
+    cursor: pointer;
+}
+.youtube{
+   cursor: pointer;
+}
+.specslogo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 160px;
+}
+.container2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:160px;
+    margin-top: 70px;
+}
+.bluetooth{
+    color: white;
+    font-size: 18px;
+    margin-left: 76px;
+    margin-top: 40px;
+}
+.battery{
+    color: white;
+    font-size: 18px;
+    margin-top: 40px;
+
+}
+.load{
+    color: white;
+    font-size: 18px;
+    margin-left: 76px;
+    margin-top: 40px;
+
+}
+.microphone{
+    color: white;
+    font-size: 18px;
+    margin-top: 40px;
+}
+.caselogo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 90px;
+}
+.container3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 100px;
+    color: white;
+    font-size: 18px;
+    line-height: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.btn2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 24px;
+    background-color: rgb(30, 29, 29);
+    color: white;
+    padding: 7px 23px;
+    border-radius: 10px;
+    margin-top: 40px;
+    cursor: pointer;
+}
+.container4{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 110px;
+    background-color:#181a1b;
+    color: white;
+    width: 1065px;
+    height: 400px;
+    margin-top: 110px;
+    margin-left:305px;
+    margin-bottom: 100px;
+    font-size: 25px;
+    border-radius: 18px;
+}
+.btn3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    background-color: rgb(12, 11, 11);
+    color: white;
+    padding: 8px 14px;
+    font-weight: 700;
+    border-radius: 10px;
+    margin-top: 40px;
+    cursor: pointer;
+}
+.chooseyourstyle{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+footer{
+    display: flex;
+    align-items: center;
+    color: white;
+    gap:180px;
+    margin-top: 240px;
+    margin-left: 210px;
+    margin-bottom: 60px;
+    
+}
+.items4{
+    display: flex;
+    align-items: center;
+}
+.finallogos{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    margin-left: -565px;
+    margin-top: 20px;
+    
+}
+.facebook, .twitter, .instagram, .linkedin{
+    cursor: pointer;
+}
+.input_section{
+    display: flex;
+    align-items: center;
+    gap: 2px;
+    margin-top: -140px;
+    
+}
+.btn4{
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    border: 2px solid rgb(28, 27, 27);
+    margin-left: -142px;
+    gap: 20px;
+    padding: 1px 14px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+.abc{
+    height: 52px;
+    display: flex;
+    align-items: center;
+    width: 380px;
+    color: white;
+    border: 2px solid black;
+    background-color: rgb(32, 30, 30);
+    border-radius: 10px;
+
+}
+.finalarrow{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: -150px;
+    margin-left: 230px;
+    cursor: pointer;
+}
+.list-items3 li{
+    list-style: none;
+    margin-left: -40px;
+    height: 0px;
+    margin-top: 40px;
+    cursor: pointer;
+    font-weight: 600;
+}
+.footerlogo{
+    margin-top: -140px;
+}
+.product-card1{
+    background-color: rgb(21, 16, 16);
+    width: 200px;
+    cursor: pointer;
+    
+}
+
+
+.product-card2{
+    background-color: rgb(21, 16, 16);
+    width: 200px;
+    cursor: pointer;
+    
+}
+.product-card3{
+    background-color: rgb(21, 16, 16);
+    width: 200px;
+    cursor: pointer;
+    
+}
+.product-card4{
+    background-color: rgb(21, 16, 16);
+    width: 200px;
+    cursor: pointer;
+    
+}
+.product-card5{
+    background-color: rgb(21, 16, 16);
+    width: 200px;
+    cursor: pointer;
+    
+}
+.product-info{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap:70px;
+    color: white;
+}
+.product-img{
+    margin-top: -40px;
+    margin-left: 60px;
+    width: 70px;
+}
+.container2cards{
+    display: flex;
+    gap: 80px;
+    margin-top: 100px;
+     align-items: center;
+    justify-content: center;
+}
+.containerfor3and4{
+    display: flex;
+    align-items: center; 
+    justify-content: center; 
+    margin-top: 70px;
+    gap: 80px;
+    
+} 
+.containerfor5card{
+    display: flex;
+    margin-top: 80px;
+    margin-left: 596px;
+}
+
